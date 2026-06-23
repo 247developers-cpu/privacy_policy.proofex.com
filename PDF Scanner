@@ -1,0 +1,79 @@
+Privacy Policy for PDF Scanner - Document Scanner
+Last Updated: June 23, 2026
+
+1. Introduction
+PDF Scanner - Document Scanner ("the App") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our App.
+
+2. Information We Collect
+2.1 Device Information
+
+Device ID and advertising ID (for ad personalization)
+App version and usage statistics
+Operating system version
+Scan count (to determine when to show ads)
+2.2 Data You Provide
+
+Photos and images you select from your device gallery (for PDF conversion)
+Documents you scan using the camera
+User preferences (dark mode, onboarding status)
+2.3 Automatically Collected Information
+
+App usage patterns and crash reports
+Ad interaction data (via Google AdMob)
+3. How We Use Your Information
+We use the collected information for the following purposes:
+
+To provide and improve the App: Process scanned documents, convert images to PDF, and enable app features
+To display advertisements: Show personalized ads via Google AdMob
+To analyze usage: Understand how users interact with the App to improve features
+To fix bugs: Crash reports help us identify and fix issues
+4. Third-Party Services
+Our App uses the following third-party services:
+
+4.1 Google AdMob
+
+Collects device ID and advertising ID for ad personalization
+Displays ads within the App
+Privacy Policy: https://policies.google.com/privacy
+4.2 Google Play Services
+
+Required for ML Kit Document Scanner and OCR features
+Privacy Policy: https://policies.google.com/privacy
+4.3 Google ML Kit
+
+Processes documents locally on your device for edge detection and OCR
+No data is sent to Google servers for document scanning
+Privacy Policy: https://policies.google.com/privacy
+4.4 uCrop
+
+Image cropping library
+Privacy Policy: https://github.com/Yalantis/uCrop
+5. Data Storage and Security
+Local Storage: All scanned documents and images are stored locally on your device
+No Cloud Storage: We do not upload your documents to any cloud servers
+Data Retention: Data is retained until you uninstall the App or manually delete documents
+Security: We implement reasonable security measures to protect your information
+6. Data Sharing
+We do not sell, trade, or rent your personal information to third parties. We may share data with:
+
+Service Providers: Google AdMob for ad delivery (as described above)
+Legal Requirements: If required by law or to protect our rights
+7. Your Rights
+You have the right to:
+
+Access: Request access to your personal data
+Delete: Request deletion of your data (by uninstalling the App)
+Opt-out: Disable personalized ads in your device settings
+8. Children's Privacy
+The App is not intended for children under 13. We do not knowingly collect personal information from children.
+
+9. Changes to This Policy
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new policy on this page.
+
+10. Contact Us
+If you have any questions about this Privacy Policy, please contact us:
+
+Email: [your-email@example.com] App Name: PDF Scanner - Document Scanner Package Name: com.pdfscannerabdul.app
+
+11. AdMob and Advertising
+The App uses Google AdMob to display advertisements. Google may use cookies to serve ads based on your prior visits to this website or other websites. You can opt out of personalized advertising by visiting Google's Ads Settings.
