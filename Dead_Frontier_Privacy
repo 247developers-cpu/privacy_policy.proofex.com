@@ -1,0 +1,120 @@
+# Privacy Policy - Dead Frontier
+
+**Last Updated**: June 25, 2026
+
+## Introduction
+
+Studio ("we", "our", or "us") respects your privacy and is committed to protecting it through our compliance with this privacy policy. This policy describes how we collect, use, and protect your information when you use our mobile game "Dead Frontier" (the "App").
+
+## Information We Collect
+
+### 1. Information Automatically Collected
+When you use the App, we may automatically collect certain information, including:
+- **Device Information**: Device model, operating system version, unique device identifiers
+- **App Usage Data**: Game progress, achievements, in-game statistics, gameplay preferences
+- **Performance Data**: Crash reports, performance metrics to improve app stability
+
+### 2. Information Collected by Third Parties
+The App uses third-party services that may collect information:
+
+**Google AdMob (Advertising)**
+- We use Google AdMob to display advertisements within the App
+- Google may collect information about your device, location (approximate based on IP address), and app usage to serve relevant ads
+- Google's use of advertising cookies and other tracking technologies is subject to Google's privacy policy: https://policies.google.com/privacy
+
+**Google Analytics for Firebase**
+- We may use Firebase Analytics to understand how users interact with the App
+- This helps us improve the game experience and fix bugs
+- Firebase collects anonymous usage data and crash reports
+
+## How We Use Your Information
+
+We use the collected information for the following purposes:
+
+- **To Provide and Improve the App**: Maintain game functionality, fix bugs, and improve performance
+- **To Personalize Ads**: Serve relevant advertisements based on your interests (via AdMob)
+- **To Analyze Usage**: Understand player behavior to improve game design and features
+- **To Ensure Security**: Detect fraud, abuse, and security threats
+
+## Data Storage and Security
+
+- Your game progress is stored locally on your device
+- We do not store personal information on our servers
+- We implement reasonable security measures to protect your information
+- However, no method of transmission over the Internet is 100% secure
+
+## Third-Party Services and Links
+
+The App may contain links to third-party websites or services. We are not responsible for the privacy practices of these third parties. We encourage you to read the privacy policies of any third-party services you access.
+
+### Third-Party Privacy Policies
+
+- **Google (AdMob & Firebase)**: https://policies.google.com/privacy
+- **Google Ads**: https://policies.google.com/technologies/ads
+
+## Permissions Required
+
+The App requests the following permissions:
+
+- **INTERNET**: Required to load advertisements and enable analytics
+- **ACCESS_NETWORK_STATE**: Required to check internet connectivity for ads
+- **com.google.android.gms.permission.AD_ID**: Required by AdMob for ad personalization
+
+## Children's Privacy
+
+The App is not directed to children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will take steps to delete such information.
+
+## Changes to This Privacy Policy
+
+We may update our privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on this page and updating the "Last Updated" date.
+
+You are advised to review this privacy policy periodically for any changes.
+
+## Your Choices
+
+### Ad Personalization
+You can opt out of personalized advertising by:
+- Adjusting your device's ad settings (Android Settings > Google > Ads)
+- Resetting your advertising ID in your device settings
+
+### Data Deletion
+To request deletion of your data, contact us at the email address provided below.
+
+## Contact Us
+
+If you have any questions about this privacy policy or our data practices, please contact us:
+
+**Email**: [your-email@example.com]
+**App Name**: Dead Frontier
+**Package Name**: com.studio.deadfrontier
+
+## Legal Basis for Processing (GDPR)
+
+If you are located in the European Economic Area (EEA), our legal basis for collecting and using the personal information described in this privacy policy depends on the personal information we collect and the specific context in which we collect it:
+
+- **Legitimate Interest**: To improve our services and ensure app security
+- **Consent**: When you agree to our privacy policy and use the App
+
+## Your Data Protection Rights (GDPR)
+
+If you are located in the EEA, you have the following data protection rights:
+
+- **Right to Access**: Request access to your personal data
+- **Right to Rectification**: Request correction of inaccurate data
+- **Right to Erasure**: Request deletion of your personal data
+- **Right to Restrict Processing**: Request restriction of processing your data
+- **Right to Data Portability**: Request transfer of your data to another party
+- **Right to Object**: Object to processing of your personal data
+
+To exercise these rights, please contact us using the email address above.
+
+---
+
+**Note**: This privacy policy is intended to comply with Google Play Developer Policy and applicable privacy laws including GDPR and CCPA. We regularly review and update our privacy practices to ensure compliance.
+
+For Google Play specific requirements, this policy covers:
+- Data collection, usage, and sharing practices
+- Third-party services (AdMob, Firebase)
+- User rights and choices
+- Contact information for privacy inquiries
+- Security measures for data protection
